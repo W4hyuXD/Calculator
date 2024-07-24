@@ -11,3 +11,8 @@ pip install rich
 cd Calculator
 python Run.py
 ```
+
+
+```python
+print("Good Luck")
+```
