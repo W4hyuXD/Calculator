@@ -56,7 +56,9 @@ def kalkulator():
             z = float(input(f'   ╰─>{H} '))
             print('')
             # Operasi hitung
-            if oper == 'x':
+            if oper == '':
+              kalkulator('[!] Input yang bener kocak')
+            elif oper == 'x':
                 r = x * z
                 operasi = "Perkalian"
             elif oper == '-':
