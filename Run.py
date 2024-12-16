@@ -1,6 +1,7 @@
-#! usr/bin/env python3
-# Calculator Sederhana By Python
-# Copyright by WahyuDin Ambia.
+#!/usr/bin/env python3
+# Kalkulator Dengan Python
+# Coded by WahyuDin Ambia
+# Update 16 Dec 2024
 
 import os, time, sys
 from time import sleep
